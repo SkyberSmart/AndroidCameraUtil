@@ -19,6 +19,7 @@ import java.util.Locale;
  * and orientation of the photo.
  *  
  * @author Ralf Gehrer <ralf@ecotastic.de>
+ * https://stackoverflow.com/questions/16019165/summary-take-a-picture-utilizing-camera-intent-and-display-the-photo-with-corre
  */
 public class CameraIntentHelper {
 	private static final String DATE_CAMERA_INTENT_STARTED_STATE = "de.ecotastic.android.camerautil.example.TakePhotoActivity.dateCameraIntentStarted";
